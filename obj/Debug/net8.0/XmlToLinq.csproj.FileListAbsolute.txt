@@ -12,3 +12,4 @@
 /Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.pdb
 /Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.genruntimeconfig.cache
 /Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/ref/XmlToLinq.dll
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.sourcelink.json
