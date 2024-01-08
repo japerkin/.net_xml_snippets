@@ -1,0 +1,14 @@
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/bin/Debug/net8.0/XmlToLinq
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/bin/Debug/net8.0/XmlToLinq.deps.json
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/bin/Debug/net8.0/XmlToLinq.runtimeconfig.json
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/bin/Debug/net8.0/XmlToLinq.dll
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/bin/Debug/net8.0/XmlToLinq.pdb
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.AssemblyInfoInputs.cache
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.AssemblyInfo.cs
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.csproj.CoreCompileInputs.cache
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.dll
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/refint/XmlToLinq.dll
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.pdb
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/XmlToLinq.genruntimeconfig.cache
+/Users/jacobperkins/Desktop/C# Workspace/XmlToLinq/obj/Debug/net8.0/ref/XmlToLinq.dll

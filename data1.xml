@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<notes>
+  <note>
+    <to>Jacob</to>
+    <from>Calib</from>
+    <heading>Reminder</heading>
+    <body>Don't forget your doctor's appointment!</body>
+  </note>
+  <note>
+    <to>Amy</to>
+    <from>Jacob</from>
+    <heading>Doctor's Note</heading>
+    <body>
+      This is a note from your doctor about your condition.
+    </body>
+  </note>
+  <note>
+    <to>Jacob</to>
+    <from>Ryan</from>
+    <heading>Birthday Surprise</heading>
+    <body>
+      Please remember there is a birthday surprise party next sunday!
+    </body>
+  </note>
+  <note archived="true">
+    <to>Jacob</to>
+    <from>BigBank</from>
+    <heading>Credit Card Alert!</heading>
+    <body>
+      You qualify for one of our new credit cards!
+    </body>
+  </note>
+</notes>
